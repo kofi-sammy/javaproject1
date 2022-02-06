@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fr.isen.java2.db.daos","l":"GenreDao"}];updateSearchResults();
